@@ -1,2 +1,2 @@
 link
-https://teachablemachine.withgoogle.com/models/DIlYiObDM/
+https://teachablemachine.withgoogle.com/models/DIlYiObDM/model.json
